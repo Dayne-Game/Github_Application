@@ -1,0 +1,14 @@
+{
+  "name": "github-app",
+  "version": "1.0.0",
+  "description": "Github Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dayne Game",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.9"
+  }
+}
